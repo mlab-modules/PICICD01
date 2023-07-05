@@ -1,0 +1,21 @@
+description: null
+github_branch: PICICD01A
+github_repo: PICICD01
+github_url: https://github.com/mlab-modules/PICICD01
+homepage: false
+images:
+- doc/img/PICICD01A_small.jpg
+- doc/src/PICICD_big.jpg
+- doc/html/Pictures/image008.jpg
+- doc/html/Pictures/image009.jpg
+- doc/html/Pictures/image001.jpg
+- doc/img/PICICD01A_QRcode.png
+- doc/html/Pictures/image005.gif
+- doc/html/Pictures/image007.gif
+- doc/html/Pictures/image003.gif
+- doc/html/Pictures/image004.gif
+- doc/html/Pictures/image002.gif
+- doc/html/Pictures/image006.gif
+mark: 50
+tags: []
+title: PICICD01
